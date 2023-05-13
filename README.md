@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Makoto Taguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakotoTaguchi1&count_private=true)
 
 
 <!--
