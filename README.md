@@ -1,4 +1,4 @@
-![Makoto Taguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakotoTaguchi1&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 
 <!--
